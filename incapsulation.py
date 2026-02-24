@@ -1,6 +1,3 @@
-
-
-
 class BankUser:
     def __init__(self,first_name,last_name,age,card_number):
         self.__first_name = first_name
@@ -12,6 +9,7 @@ class BankUser:
 
 ali=BankUser("Ali","Hechkimov",15,1234567891123456)
 print(ali.card_info())
+
 
 
 

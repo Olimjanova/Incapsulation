@@ -9,11 +9,3 @@ class BankUser:
 
 ali=BankUser("Ali","Hechkimov",15,1234567891123456)
 print(ali.card_info())
-
-
-
-
-
-
-
-
